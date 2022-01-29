@@ -5,10 +5,10 @@ This Repo will have the provided guides and downloads you'll need to make skins 
 <br>
 <br>
 
-**PLEASE USE THIS WEBSITE TO DOWNLOAD SPECIFIC FOLDERS.**
-**SIMPLY COPY THE FOLDER DIR WHEN YOU WANT TO DOWNLOAD.**<br><br>
-
-
+**PLEASE USE THIS WEBSITE TO DOWNLOAD SPECIFIC FOLDERS.**<br>https://download-directory.github.io<br>
+**SIMPLY COPY THE FOLDER URL WHEN YOU WANT TO DOWNLOAD.**<br><br>
+<br><br>
+<br><br>
 ![image](https://user-images.githubusercontent.com/23240514/151678542-c5f65e38-01e3-4d17-b066-79ad5897a90e.png)<br>
 V
 <br>
