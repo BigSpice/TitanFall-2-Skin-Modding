@@ -1,0 +1,18 @@
+# Exported by KoreLib
+# You must credit DTZxPorter for use of this asset
+
+
+mtllib human_pov_cockpit_LOD0.mtl
+
+v -0.000000 -0.000016 -0.000016
+v -0.000000 0.000016 -0.000016
+v -0.000000 0.000000 0.000016
+vt 0.000000 1.000000
+vt 1.000000 1.000000
+vt 1.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+g geo_surface_test
+usemtl geo_surface_test
+f 3/3/3 2/2/2 1/1/1

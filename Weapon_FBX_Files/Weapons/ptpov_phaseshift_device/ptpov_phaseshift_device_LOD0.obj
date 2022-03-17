@@ -1,0 +1,18 @@
+# Exported by KoreLib
+# You must credit DTZxPorter for use of this asset
+
+
+mtllib ptpov_phaseshift_device_LOD0.mtl
+
+v -0.036745 43.306999 9.763760
+v 0.036745 43.306999 9.763760
+v 0.000000 43.306999 9.921240
+vt 0.496972 0.495941
+vt 0.496972 0.502245
+vt 0.503277 0.495941
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+g rifle_scope_lens
+usemtl rifle_scope_lens
+f 3/3/3 2/2/2 1/1/1
