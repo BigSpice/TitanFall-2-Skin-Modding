@@ -2,7 +2,7 @@
 Various Resources for Skin Making in Titanfall 2.
 This Repo will have the provided guides and downloads you'll need to make skins or even just download them.
 <br>
-PLEASE READ THE WIKI FOR TIPS AND INFORMATION ON SKIN MODDING<br>
+PLEASE READ THE WIKI FOR TIPS AND INFORMATION ON SKIN MODDING<br> (NOW MOVED TO https://app.gitbook.com/o/AgVTjGiXI8sZUhArKpgV/s/1m2WKavW8T00P3RD1dj9/)
 
 https://github.com/BigSpice/TitanFall_2_Weapon_Skin_Modding/wiki
 <br>
