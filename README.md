@@ -8,19 +8,14 @@ This Repo will have the provided guides and downloads you'll need to make skins 
 
 <br>
 <br>
-
+<p align="center" >
 **PLEASE USE THIS WEBSITE TO DOWNLOAD SPECIFIC FOLDERS.**<br>https://download-directory.github.io<br>
 **SIMPLY COPY THE FOLDER URL WHEN YOU WANT TO DOWNLOAD.**<br><br>
-<br><br>
-<br><br>
-![image](https://user-images.githubusercontent.com/23240514/151678542-c5f65e38-01e3-4d17-b066-79ad5897a90e.png)<br>
-V
-<br>
-V
-<br>
-V
 <br>
 
-![image](https://user-images.githubusercontent.com/23240514/151678520-78e7919f-a0b2-4bfb-b37b-57f9b81fc596.png)<br>
+<img src="https://user-images.githubusercontent.com/23240514/151678542-c5f65e38-01e3-4d17-b066-79ad5897a90e.png" alt="Flowers in Chania">
+ <br>
 
+<img src="https://user-images.githubusercontent.com/23240514/167010823-5dac34f5-09f8-4f91-b693-a98eb1273815.png" alt="Flowers in Chania">
 *PRESS ENTER AND ENJOY!*
+</p>
