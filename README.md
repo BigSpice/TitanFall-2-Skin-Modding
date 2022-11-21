@@ -1,5 +1,5 @@
-# TitanFall 2 Weapon Skin Modding
-Various Resources for Skin Making in Titanfall 2.
+# TitanFall 2 Visual Modding
+Various Resources for Skin and Model Making in Titanfall 1 & 2.
 This Repo will have the provided guides and downloads you'll need to make skins or even just download them.
 <br>
  <h2 align="center" >PLEASE READ THE WIKI FOR TIPS AND INFORMATION ON MODDING</h2>
